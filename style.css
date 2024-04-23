@@ -66,8 +66,8 @@ body{
 
 .logo{
     font-size: 3rem;
-    color: var(--text-color)
-    fontw 800;
+    color: var(--text-color);
+    font: 800;
     cursor: pointer;
     transition: 0.3s ease-in-out;}
 
@@ -438,6 +438,7 @@ span{
     border: 2px solid var(--main-color);
     margin: 1rem 0;
     resize: none;
+    color:white;
 }
 
 .contact form .btn {
